@@ -1,0 +1,634 @@
+2015-06-14 16:08:40.779 Placetify[13180:1065327] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Data/Application/8446E8AE-3379-4893-A186-6A8C52A43794/Library/Cookies/Cookies.binarycookies
+2015-06-14 16:08:40.974 Placetify[13180:1065327] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-14 16:08:40.975 Placetify[13180:1065327] Multi-tasking -> Device: YES, App: YES
+2015-06-14 16:08:40.977 Placetify[13180:1065327] Unlimited access to network resources
+2015-06-14 16:08:40.982 Placetify[13180:1065327] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-14 16:08:41.321 Placetify[13180:1065327] Resetting plugins due to page load.
+2015-06-14 16:08:41.477 Placetify[13180:1065327] Finished load of: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Bundle/Application/43352CA5-2BC1-4E76-8702-4CE5E96C7C5A/Placetify.app/www/index.html
+2015-06-14 16:08:41.535 Placetify[13180:1065327] THREAD WARNING: ['Notification'] took '35.718018' ms. Plugin should use a background thread.
+2015-06-14 16:10:45.666 Placetify[13444:1072751] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Data/Application/BF83C61C-8F7A-4921-A5E7-20828436519A/Library/Cookies/Cookies.binarycookies
+2015-06-14 16:10:45.787 Placetify[13444:1072751] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-14 16:10:45.787 Placetify[13444:1072751] Multi-tasking -> Device: YES, App: YES
+2015-06-14 16:10:45.789 Placetify[13444:1072751] Unlimited access to network resources
+2015-06-14 16:10:45.792 Placetify[13444:1072751] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-14 16:10:45.930 Placetify[13444:1072751] Resetting plugins due to page load.
+2015-06-14 16:10:46.076 Placetify[13444:1072751] Finished load of: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Bundle/Application/2DF24391-D8B2-447C-AF1B-E391FB2CA5F7/Placetify.app/www/index.html
+2015-06-14 16:12:19.483 Placetify[13732:1078778] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Data/Application/7EBEE338-A32D-4B11-BDEE-55951A8C565E/Library/Cookies/Cookies.binarycookies
+2015-06-14 16:12:19.618 Placetify[13732:1078778] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-14 16:12:19.619 Placetify[13732:1078778] Multi-tasking -> Device: YES, App: YES
+2015-06-14 16:12:19.622 Placetify[13732:1078778] Unlimited access to network resources
+2015-06-14 16:12:19.625 Placetify[13732:1078778] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-14 16:12:19.784 Placetify[13732:1078778] Resetting plugins due to page load.
+2015-06-14 16:12:19.924 Placetify[13732:1078778] Finished load of: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Bundle/Application/DF33403E-D9A8-4845-AF9B-A1D8697616EE/Placetify.app/www/index.html
+2015-06-14 16:15:11.733 Placetify[14006:1090699] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Data/Application/7D590799-C9F7-4D1A-A188-3D3E99ACB8EA/Library/Cookies/Cookies.binarycookies
+2015-06-14 16:15:11.859 Placetify[14006:1090699] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-14 16:15:11.860 Placetify[14006:1090699] Multi-tasking -> Device: YES, App: YES
+2015-06-14 16:15:11.862 Placetify[14006:1090699] Unlimited access to network resources
+2015-06-14 16:15:11.865 Placetify[14006:1090699] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-14 16:15:12.016 Placetify[14006:1090699] Resetting plugins due to page load.
+2015-06-14 16:15:12.175 Placetify[14006:1090699] Finished load of: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Bundle/Application/FF422E9A-5703-4321-BAE5-0566B1CCD26A/Placetify.app/www/index.html
+2015-06-14 16:17:20.201 Placetify[14274:1098412] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Data/Application/FD568D94-3814-4E1E-B4EC-6478177789E6/Library/Cookies/Cookies.binarycookies
+2015-06-14 16:17:20.330 Placetify[14274:1098412] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-14 16:17:20.330 Placetify[14274:1098412] Multi-tasking -> Device: YES, App: YES
+2015-06-14 16:17:20.333 Placetify[14274:1098412] Unlimited access to network resources
+2015-06-14 16:17:20.336 Placetify[14274:1098412] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-14 16:17:20.478 Placetify[14274:1098412] Resetting plugins due to page load.
+2015-06-14 16:17:20.629 Placetify[14274:1098412] Finished load of: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Bundle/Application/38BC520C-6BFB-43D3-A6EC-6064E757E04C/Placetify.app/www/index.html
+2015-06-14 16:17:24.185 Placetify[14274:1098412] THREAD WARNING: ['Notification'] took '23.663818' ms. Plugin should use a background thread.
+2015-06-14 16:17:33.106 Placetify[14274:1098412] locationManager::didFailWithError (null)
+2015-06-14 16:17:36.128 Placetify[14274:1098412] THREAD WARNING: ['Notification'] took '10.204102' ms. Plugin should use a background thread.
+2015-06-14 16:17:43.218 Placetify[14274:1098412] locationManager::didFailWithError (null)
+2015-06-14 16:17:48.945 Placetify[14274:1098412] locationManager::didFailWithError (null)
+2015-06-14 16:18:12.050 Placetify[14274:1098412] locationManager::didFailWithError (null)
+2015-06-14 16:18:17.185 Placetify[14274:1098412] locationManager::didFailWithError (null)
+2015-06-14 16:18:20.208 Placetify[14274:1098412] THREAD WARNING: ['Notification'] took '13.715088' ms. Plugin should use a background thread.
+2015-06-14 16:20:35.251 Placetify[14539:1107556] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Data/Application/16906D73-129C-4B41-8B0E-D124B99CAD88/Library/Cookies/Cookies.binarycookies
+2015-06-14 16:20:35.381 Placetify[14539:1107556] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-14 16:20:35.381 Placetify[14539:1107556] Multi-tasking -> Device: YES, App: YES
+2015-06-14 16:20:35.384 Placetify[14539:1107556] Unlimited access to network resources
+2015-06-14 16:20:35.387 Placetify[14539:1107556] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-14 16:20:35.556 Placetify[14539:1107556] Resetting plugins due to page load.
+2015-06-14 16:20:35.700 Placetify[14539:1107556] Finished load of: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Bundle/Application/39CECC94-FB62-44BD-A7D8-B16A8572AEBC/Placetify.app/www/index.html
+2015-06-14 16:22:20.439 Placetify[14804:1110578] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Data/Application/BFD547C0-2352-4F99-9CD3-28557F66F447/Library/Cookies/Cookies.binarycookies
+2015-06-14 16:22:20.575 Placetify[14804:1110578] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-14 16:22:20.575 Placetify[14804:1110578] Multi-tasking -> Device: YES, App: YES
+2015-06-14 16:22:20.577 Placetify[14804:1110578] Unlimited access to network resources
+2015-06-14 16:22:20.581 Placetify[14804:1110578] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-14 16:22:20.731 Placetify[14804:1110578] Resetting plugins due to page load.
+2015-06-14 16:22:20.870 Placetify[14804:1110578] Finished load of: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Bundle/Application/35AEE79D-9563-4F8B-B315-44B43E0D49BB/Placetify.app/www/index.html
+2015-06-14 16:24:35.825 Placetify[15070:1115504] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Data/Application/5459B369-384C-49F1-9CC7-FBD67C8BA8D0/Library/Cookies/Cookies.binarycookies
+2015-06-14 16:24:35.947 Placetify[15070:1115504] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-14 16:24:35.947 Placetify[15070:1115504] Multi-tasking -> Device: YES, App: YES
+2015-06-14 16:24:35.950 Placetify[15070:1115504] Unlimited access to network resources
+2015-06-14 16:24:35.952 Placetify[15070:1115504] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-14 16:24:36.104 Placetify[15070:1115504] Resetting plugins due to page load.
+2015-06-14 16:24:36.240 Placetify[15070:1115504] Finished load of: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Bundle/Application/954E24C9-6F47-47F2-A0E0-AE332121140D/Placetify.app/www/index.html
+2015-06-14 16:25:21.046 Placetify[15332:1116249] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Data/Application/BDF6188F-CE55-4020-904F-FB2392E23310/Library/Cookies/Cookies.binarycookies
+2015-06-14 16:25:21.177 Placetify[15332:1116249] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-14 16:25:21.177 Placetify[15332:1116249] Multi-tasking -> Device: YES, App: YES
+2015-06-14 16:25:21.179 Placetify[15332:1116249] Unlimited access to network resources
+2015-06-14 16:25:21.183 Placetify[15332:1116249] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-14 16:25:21.327 Placetify[15332:1116249] Resetting plugins due to page load.
+2015-06-14 16:25:21.473 Placetify[15332:1116249] Finished load of: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Bundle/Application/32FA9A73-22F9-455B-9852-B7ACDE564110/Placetify.app/www/index.html
+2015-06-14 16:25:37.859 Placetify[15591:1116881] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Data/Application/9DDEC6C3-DD0E-41E4-9EB5-54B696884AB4/Library/Cookies/Cookies.binarycookies
+2015-06-14 16:25:38.007 Placetify[15591:1116881] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-14 16:25:38.008 Placetify[15591:1116881] Multi-tasking -> Device: YES, App: YES
+2015-06-14 16:25:38.011 Placetify[15591:1116881] Unlimited access to network resources
+2015-06-14 16:25:38.013 Placetify[15591:1116881] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-14 16:25:38.170 Placetify[15591:1116881] Resetting plugins due to page load.
+2015-06-14 16:25:38.321 Placetify[15591:1116881] Finished load of: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Bundle/Application/B5355BF1-0349-426D-9955-3442DAA128B3/Placetify.app/www/index.html
+2015-06-14 16:27:31.076 Placetify[15853:1124824] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Data/Application/13E673C3-778D-44E0-B0F7-FCE093EED435/Library/Cookies/Cookies.binarycookies
+2015-06-14 16:27:31.201 Placetify[15853:1124824] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-14 16:27:31.201 Placetify[15853:1124824] Multi-tasking -> Device: YES, App: YES
+2015-06-14 16:27:31.204 Placetify[15853:1124824] Unlimited access to network resources
+2015-06-14 16:27:31.206 Placetify[15853:1124824] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-14 16:27:31.360 Placetify[15853:1124824] Resetting plugins due to page load.
+2015-06-14 16:27:31.519 Placetify[15853:1124824] Finished load of: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Bundle/Application/96E8CB69-9C8C-4C8C-94D1-F22A557973D9/Placetify.app/www/index.html
+2015-06-14 16:28:19.734 Placetify[16117:1128063] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Data/Application/4A9377A6-1A3E-46D8-9EBF-C1A3608FEB33/Library/Cookies/Cookies.binarycookies
+2015-06-14 16:28:19.866 Placetify[16117:1128063] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-14 16:28:19.866 Placetify[16117:1128063] Multi-tasking -> Device: YES, App: YES
+2015-06-14 16:28:19.869 Placetify[16117:1128063] Unlimited access to network resources
+2015-06-14 16:28:19.872 Placetify[16117:1128063] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-14 16:28:20.019 Placetify[16117:1128063] Resetting plugins due to page load.
+2015-06-14 16:28:20.169 Placetify[16117:1128063] Finished load of: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Bundle/Application/268F4DB7-C984-4EF3-9D5B-4951CFC9C7BC/Placetify.app/www/index.html
+2015-06-14 16:28:36.681 Placetify[16376:1128768] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Data/Application/AB0241FF-E497-46CA-B87D-2EAAD9BD4163/Library/Cookies/Cookies.binarycookies
+2015-06-14 16:28:36.807 Placetify[16376:1128768] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-14 16:28:36.808 Placetify[16376:1128768] Multi-tasking -> Device: YES, App: YES
+2015-06-14 16:28:36.810 Placetify[16376:1128768] Unlimited access to network resources
+2015-06-14 16:28:36.812 Placetify[16376:1128768] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-14 16:28:36.960 Placetify[16376:1128768] Resetting plugins due to page load.
+2015-06-14 16:28:37.099 Placetify[16376:1128768] Finished load of: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Bundle/Application/94B74BE9-9AB6-4515-97E9-A59D7C2F8889/Placetify.app/www/index.html
+2015-06-14 16:28:57.371 Placetify[16635:1129341] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Data/Application/AAFBBB35-403A-46C8-B14A-4D5433F5056D/Library/Cookies/Cookies.binarycookies
+2015-06-14 16:28:57.488 Placetify[16635:1129341] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-14 16:28:57.488 Placetify[16635:1129341] Multi-tasking -> Device: YES, App: YES
+2015-06-14 16:28:57.490 Placetify[16635:1129341] Unlimited access to network resources
+2015-06-14 16:28:57.493 Placetify[16635:1129341] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-14 16:28:57.654 Placetify[16635:1129341] Resetting plugins due to page load.
+2015-06-14 16:28:57.799 Placetify[16635:1129341] Finished load of: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Bundle/Application/A2CB1EFB-87D9-4075-B814-15D358877C02/Placetify.app/www/index.html
+2015-06-14 16:29:18.805 Placetify[16894:1129891] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Data/Application/967D6210-4CA8-41A7-8981-79E61C6CC6DD/Library/Cookies/Cookies.binarycookies
+2015-06-14 16:29:18.964 Placetify[16894:1129891] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-14 16:29:18.965 Placetify[16894:1129891] Multi-tasking -> Device: YES, App: YES
+2015-06-14 16:29:18.967 Placetify[16894:1129891] Unlimited access to network resources
+2015-06-14 16:29:18.970 Placetify[16894:1129891] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-14 16:29:19.130 Placetify[16894:1129891] Resetting plugins due to page load.
+2015-06-14 16:29:19.282 Placetify[16894:1129891] Finished load of: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Bundle/Application/C2AF5783-8AF1-41E5-8DC2-22C5591D6EDB/Placetify.app/www/index.html
+2015-06-14 16:30:21.226 Placetify[17154:1133984] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Data/Application/BA194B5A-6CE4-4098-A18B-F5D9B5B17CC0/Library/Cookies/Cookies.binarycookies
+2015-06-14 16:30:21.353 Placetify[17154:1133984] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-14 16:30:21.354 Placetify[17154:1133984] Multi-tasking -> Device: YES, App: YES
+2015-06-14 16:30:21.356 Placetify[17154:1133984] Unlimited access to network resources
+2015-06-14 16:30:21.359 Placetify[17154:1133984] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-14 16:30:21.525 Placetify[17154:1133984] Resetting plugins due to page load.
+2015-06-14 16:30:21.659 Placetify[17154:1133984] Finished load of: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Bundle/Application/E72AD998-DE20-4452-AB55-DA4CDCCFECC6/Placetify.app/www/index.html
+2015-06-14 16:31:00.751 Placetify[17418:1136100] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Data/Application/75267838-098B-4E10-ACEF-F0798067DF74/Library/Cookies/Cookies.binarycookies
+2015-06-14 16:31:00.881 Placetify[17418:1136100] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-14 16:31:00.882 Placetify[17418:1136100] Multi-tasking -> Device: YES, App: YES
+2015-06-14 16:31:00.884 Placetify[17418:1136100] Unlimited access to network resources
+2015-06-14 16:31:00.886 Placetify[17418:1136100] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-14 16:31:01.036 Placetify[17418:1136100] Resetting plugins due to page load.
+2015-06-14 16:31:01.175 Placetify[17418:1136100] Finished load of: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Bundle/Application/88C39D93-016F-4190-8CD7-7FFDBC2890D1/Placetify.app/www/index.html
+2015-06-14 16:34:46.779 Placetify[17975:1148582] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Data/Application/D344E201-2545-41BE-B564-2757E51FEB9D/Library/Cookies/Cookies.binarycookies
+2015-06-14 16:34:46.957 Placetify[17975:1148582] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-14 16:34:46.957 Placetify[17975:1148582] Multi-tasking -> Device: YES, App: YES
+2015-06-14 16:34:46.959 Placetify[17975:1148582] Unlimited access to network resources
+2015-06-14 16:34:46.962 Placetify[17975:1148582] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-14 16:34:47.272 Placetify[17975:1148582] Resetting plugins due to page load.
+2015-06-14 16:34:47.414 Placetify[17975:1148582] Finished load of: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Bundle/Application/D1F5D751-EA0E-444F-9EE1-C1E2433D58DD/Placetify.app/www/index.html
+2015-06-14 16:35:20.551 Placetify[18235:1150180] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Data/Application/1FE4A0EC-5C5E-4874-B81C-193599D564E9/Library/Cookies/Cookies.binarycookies
+2015-06-14 16:35:20.681 Placetify[18235:1150180] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-14 16:35:20.682 Placetify[18235:1150180] Multi-tasking -> Device: YES, App: YES
+2015-06-14 16:35:20.684 Placetify[18235:1150180] Unlimited access to network resources
+2015-06-14 16:35:20.687 Placetify[18235:1150180] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-14 16:35:20.842 Placetify[18235:1150180] Resetting plugins due to page load.
+2015-06-14 16:35:20.983 Placetify[18235:1150180] Finished load of: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Bundle/Application/3C5FDC3E-2A11-420D-B3BA-6CDDE5D86DFA/Placetify.app/www/index.html
+2015-06-14 16:36:40.519 Placetify[18499:1152687] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Data/Application/A68925AA-A214-43B2-A044-F1DBE46EF475/Library/Cookies/Cookies.binarycookies
+2015-06-14 16:36:40.678 Placetify[18499:1152687] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-14 16:36:40.678 Placetify[18499:1152687] Multi-tasking -> Device: YES, App: YES
+2015-06-14 16:36:40.681 Placetify[18499:1152687] Unlimited access to network resources
+2015-06-14 16:36:40.685 Placetify[18499:1152687] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-14 16:36:40.883 Placetify[18499:1152687] Resetting plugins due to page load.
+2015-06-14 16:36:41.043 Placetify[18499:1152687] Finished load of: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Bundle/Application/9140E189-2C10-4B60-B62F-135FE972F06B/Placetify.app/www/index.html
+2015-06-14 16:37:45.923 Placetify[18759:1156230] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Data/Application/54C7B1D1-0BA7-40D4-8204-B04E38DDB106/Library/Cookies/Cookies.binarycookies
+2015-06-14 16:37:46.053 Placetify[18759:1156230] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-14 16:37:46.053 Placetify[18759:1156230] Multi-tasking -> Device: YES, App: YES
+2015-06-14 16:37:46.055 Placetify[18759:1156230] Unlimited access to network resources
+2015-06-14 16:37:46.060 Placetify[18759:1156230] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-14 16:37:46.203 Placetify[18759:1156230] Resetting plugins due to page load.
+2015-06-14 16:37:46.350 Placetify[18759:1156230] Finished load of: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Bundle/Application/F93BBD84-EFFA-4C68-A4F9-F70A5AA26357/Placetify.app/www/index.html
+2015-06-14 16:39:26.860 Placetify[19028:1160565] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Data/Application/D4F9B3F5-D94E-41A9-9763-E69A6CADE09B/Library/Cookies/Cookies.binarycookies
+2015-06-14 16:39:26.987 Placetify[19028:1160565] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-14 16:39:26.988 Placetify[19028:1160565] Multi-tasking -> Device: YES, App: YES
+2015-06-14 16:39:26.990 Placetify[19028:1160565] Unlimited access to network resources
+2015-06-14 16:39:26.994 Placetify[19028:1160565] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-14 16:39:27.147 Placetify[19028:1160565] Resetting plugins due to page load.
+2015-06-14 16:39:27.294 Placetify[19028:1160565] Finished load of: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Bundle/Application/6603C08B-67F0-41D1-AEDD-928D54C4CA0D/Placetify.app/www/index.html
+2015-06-14 16:40:11.542 Placetify[19288:1163902] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Data/Application/CBF8FA2C-117C-4A0C-865A-544F366B1F91/Library/Cookies/Cookies.binarycookies
+2015-06-14 16:40:11.622 Placetify[19288:1163902] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-14 16:40:11.623 Placetify[19288:1163902] Multi-tasking -> Device: YES, App: YES
+2015-06-14 16:40:11.624 Placetify[19288:1163902] Unlimited access to network resources
+2015-06-14 16:40:11.627 Placetify[19288:1163902] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-14 16:40:11.813 Placetify[19288:1163902] Resetting plugins due to page load.
+2015-06-14 16:40:11.965 Placetify[19288:1163902] Finished load of: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Bundle/Application/FAF76F12-36C5-417D-B16F-CAD2ABA5FEE3/Placetify.app/www/index.html
+2015-06-14 16:40:41.204 Placetify[19547:1166010] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Data/Application/4CB436F0-71DB-49AC-85D1-B645786B0634/Library/Cookies/Cookies.binarycookies
+2015-06-14 16:40:41.339 Placetify[19547:1166010] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-14 16:40:41.339 Placetify[19547:1166010] Multi-tasking -> Device: YES, App: YES
+2015-06-14 16:40:41.343 Placetify[19547:1166010] Unlimited access to network resources
+2015-06-14 16:40:41.346 Placetify[19547:1166010] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-14 16:40:41.493 Placetify[19547:1166010] Resetting plugins due to page load.
+2015-06-14 16:40:41.644 Placetify[19547:1166010] Finished load of: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Bundle/Application/9F7CD5B0-8ECE-46E5-AEDA-A1FA30DDC501/Placetify.app/www/index.html
+2015-06-14 16:40:55.768 Placetify[19807:1166577] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Data/Application/84CF3D40-6A78-49E8-9060-D2509AD6C88A/Library/Cookies/Cookies.binarycookies
+2015-06-14 16:40:55.881 Placetify[19807:1166577] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-14 16:40:55.882 Placetify[19807:1166577] Multi-tasking -> Device: YES, App: YES
+2015-06-14 16:40:55.884 Placetify[19807:1166577] Unlimited access to network resources
+2015-06-14 16:40:55.886 Placetify[19807:1166577] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-14 16:40:56.023 Placetify[19807:1166577] Resetting plugins due to page load.
+2015-06-14 16:40:56.166 Placetify[19807:1166577] Finished load of: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Bundle/Application/D285A217-C087-4AAF-898F-74C869889458/Placetify.app/www/index.html
+2015-06-14 16:41:17.280 Placetify[20066:1167619] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Data/Application/1D3A57CC-106E-448C-B4AA-5B18115E76B9/Library/Cookies/Cookies.binarycookies
+2015-06-14 16:41:17.423 Placetify[20066:1167619] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-14 16:41:17.424 Placetify[20066:1167619] Multi-tasking -> Device: YES, App: YES
+2015-06-14 16:41:17.426 Placetify[20066:1167619] Unlimited access to network resources
+2015-06-14 16:41:17.429 Placetify[20066:1167619] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-14 16:41:17.599 Placetify[20066:1167619] Resetting plugins due to page load.
+2015-06-14 16:41:17.743 Placetify[20066:1167619] Finished load of: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Bundle/Application/F3C72799-0F17-4E1D-A5BB-F54707DD3BB4/Placetify.app/www/index.html
+2015-06-14 16:41:38.877 Placetify[20325:1168939] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Data/Application/0C410C3A-2954-447E-A967-B299D91D8478/Library/Cookies/Cookies.binarycookies
+2015-06-14 16:41:38.999 Placetify[20325:1168939] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-14 16:41:39.000 Placetify[20325:1168939] Multi-tasking -> Device: YES, App: YES
+2015-06-14 16:41:39.002 Placetify[20325:1168939] Unlimited access to network resources
+2015-06-14 16:41:39.005 Placetify[20325:1168939] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-14 16:41:39.158 Placetify[20325:1168939] Resetting plugins due to page load.
+2015-06-14 16:41:39.301 Placetify[20325:1168939] Finished load of: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Bundle/Application/7C0720D3-BA0C-4E67-82DB-A6B76CB7F801/Placetify.app/www/index.html
+2015-06-14 16:42:04.860 Placetify[20584:1170300] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Data/Application/EAF18603-EB5B-47BB-8966-BD6E6139208D/Library/Cookies/Cookies.binarycookies
+2015-06-14 16:42:04.983 Placetify[20584:1170300] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-14 16:42:04.984 Placetify[20584:1170300] Multi-tasking -> Device: YES, App: YES
+2015-06-14 16:42:04.986 Placetify[20584:1170300] Unlimited access to network resources
+2015-06-14 16:42:04.990 Placetify[20584:1170300] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-14 16:42:05.161 Placetify[20584:1170300] Resetting plugins due to page load.
+2015-06-14 16:42:05.327 Placetify[20584:1170300] Finished load of: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Bundle/Application/571BA3EF-5650-4BFC-9AA2-05D879457142/Placetify.app/www/index.html
+2015-06-14 16:43:04.652 Placetify[20844:1173752] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Data/Application/226D6997-3616-4120-8950-3D90F8F549FD/Library/Cookies/Cookies.binarycookies
+2015-06-14 16:43:04.780 Placetify[20844:1173752] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-14 16:43:04.781 Placetify[20844:1173752] Multi-tasking -> Device: YES, App: YES
+2015-06-14 16:43:04.784 Placetify[20844:1173752] Unlimited access to network resources
+2015-06-14 16:43:04.786 Placetify[20844:1173752] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-14 16:43:04.953 Placetify[20844:1173752] Resetting plugins due to page load.
+2015-06-14 16:43:05.124 Placetify[20844:1173752] Finished load of: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Bundle/Application/3F2A105E-5D84-47C7-B31C-F8E8B37F049B/Placetify.app/www/index.html
+2015-06-14 16:43:45.085 Placetify[21103:1175265] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Data/Application/8D9E2220-10F8-4199-98E8-4E91C46D0602/Library/Cookies/Cookies.binarycookies
+2015-06-14 16:43:45.209 Placetify[21103:1175265] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-14 16:43:45.209 Placetify[21103:1175265] Multi-tasking -> Device: YES, App: YES
+2015-06-14 16:43:45.212 Placetify[21103:1175265] Unlimited access to network resources
+2015-06-14 16:43:45.215 Placetify[21103:1175265] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-14 16:43:45.370 Placetify[21103:1175265] Resetting plugins due to page load.
+2015-06-14 16:43:45.518 Placetify[21103:1175265] Finished load of: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Bundle/Application/F518A543-9D37-4CCA-97B8-B285EA63CE0F/Placetify.app/www/index.html
+2015-06-14 16:48:05.312 Placetify[21103:1175265] THREAD WARNING: ['Notification'] took '24.706055' ms. Plugin should use a background thread.
+2015-06-14 16:48:17.254 Placetify[21103:1175265] locationManager::didFailWithError (null)
+2015-06-14 16:48:35.239 Placetify[21383:1183095] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Data/Application/C721A8A7-34EF-4C37-8C22-CB05D287943B/Library/Cookies/Cookies.binarycookies
+2015-06-14 16:48:35.372 Placetify[21383:1183095] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-14 16:48:35.373 Placetify[21383:1183095] Multi-tasking -> Device: YES, App: YES
+2015-06-14 16:48:35.375 Placetify[21383:1183095] Unlimited access to network resources
+2015-06-14 16:48:35.377 Placetify[21383:1183095] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-14 16:48:35.531 Placetify[21383:1183095] Resetting plugins due to page load.
+2015-06-14 16:48:35.684 Placetify[21383:1183095] Finished load of: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Bundle/Application/53F8DB77-E71C-4884-B569-D73BAE9CCC35/Placetify.app/www/index.html
+2015-06-14 16:48:57.168 Placetify[21383:1183095] locationManager::didFailWithError (null)
+2015-06-14 16:49:03.268 Placetify[21383:1183095] THREAD WARNING: ['Notification'] took '14.298828' ms. Plugin should use a background thread.
+2015-06-14 16:53:13.517 Placetify[21662:1197819] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Data/Application/5D0A8F7A-8E92-457B-9331-499ABA33B261/Library/Cookies/Cookies.binarycookies
+2015-06-14 16:53:13.672 Placetify[21662:1197819] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-14 16:53:13.672 Placetify[21662:1197819] Multi-tasking -> Device: YES, App: YES
+2015-06-14 16:53:13.675 Placetify[21662:1197819] Unlimited access to network resources
+2015-06-14 16:53:13.678 Placetify[21662:1197819] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-14 16:53:13.850 Placetify[21662:1197819] Resetting plugins due to page load.
+2015-06-14 16:53:14.003 Placetify[21662:1197819] Finished load of: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Bundle/Application/8B3E3A98-DE26-43F6-B4DE-9A20C8E0C76C/Placetify.app/www/index.html
+2015-06-14 16:53:49.576 Placetify[21662:1197819] THREAD WARNING: ['Notification'] took '22.743896' ms. Plugin should use a background thread.
+2015-06-14 16:54:15.374 Placetify[21923:1201810] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Data/Application/E52A70F8-2F34-40B5-BF1F-A55091DE00C1/Library/Cookies/Cookies.binarycookies
+2015-06-14 16:54:15.511 Placetify[21923:1201810] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-14 16:54:15.512 Placetify[21923:1201810] Multi-tasking -> Device: YES, App: YES
+2015-06-14 16:54:15.514 Placetify[21923:1201810] Unlimited access to network resources
+2015-06-14 16:54:15.516 Placetify[21923:1201810] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-14 16:54:15.671 Placetify[21923:1201810] Resetting plugins due to page load.
+2015-06-14 16:54:15.833 Placetify[21923:1201810] Finished load of: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Bundle/Application/E5D3D0C7-D41E-4C26-9292-E555F27872A0/Placetify.app/www/index.html
+2015-06-14 16:54:15.926 Placetify[21923:1201810] THREAD WARNING: ['Notification'] took '34.823975' ms. Plugin should use a background thread.
+2015-06-14 16:54:36.878 Placetify[22185:1203142] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Data/Application/35307556-CD0B-4971-9DA4-F22253A5D002/Library/Cookies/Cookies.binarycookies
+2015-06-14 16:54:37.017 Placetify[22185:1203142] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-14 16:54:37.018 Placetify[22185:1203142] Multi-tasking -> Device: YES, App: YES
+2015-06-14 16:54:37.020 Placetify[22185:1203142] Unlimited access to network resources
+2015-06-14 16:54:37.023 Placetify[22185:1203142] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-14 16:54:37.178 Placetify[22185:1203142] Resetting plugins due to page load.
+2015-06-14 16:54:37.332 Placetify[22185:1203142] Finished load of: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Bundle/Application/4257D6E1-F66D-449A-B23D-4C5BB93E9A5A/Placetify.app/www/index.html
+2015-06-14 16:54:37.411 Placetify[22185:1203142] THREAD WARNING: ['Notification'] took '38.638916' ms. Plugin should use a background thread.
+2015-06-14 16:55:26.789 Placetify[22444:1206039] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Data/Application/7E6BE1F9-8172-4BFE-A112-777EBF4C12DD/Library/Cookies/Cookies.binarycookies
+2015-06-14 16:55:26.911 Placetify[22444:1206039] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-14 16:55:26.912 Placetify[22444:1206039] Multi-tasking -> Device: YES, App: YES
+2015-06-14 16:55:26.914 Placetify[22444:1206039] Unlimited access to network resources
+2015-06-14 16:55:26.916 Placetify[22444:1206039] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-14 16:55:27.081 Placetify[22444:1206039] Resetting plugins due to page load.
+2015-06-14 16:55:27.241 Placetify[22444:1206039] Finished load of: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Bundle/Application/6725B642-1A03-4943-9037-4167D8CAE446/Placetify.app/www/index.html
+2015-06-14 16:55:27.312 Placetify[22444:1206039] THREAD WARNING: ['Notification'] took '30.612061' ms. Plugin should use a background thread.
+2015-06-14 16:56:03.405 Placetify[22703:1207317] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Data/Application/290EE75A-16E3-4F43-88CE-140A8C37D8A8/Library/Cookies/Cookies.binarycookies
+2015-06-14 16:56:03.534 Placetify[22703:1207317] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-14 16:56:03.535 Placetify[22703:1207317] Multi-tasking -> Device: YES, App: YES
+2015-06-14 16:56:03.537 Placetify[22703:1207317] Unlimited access to network resources
+2015-06-14 16:56:03.540 Placetify[22703:1207317] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-14 16:56:03.695 Placetify[22703:1207317] Resetting plugins due to page load.
+2015-06-14 16:56:03.856 Placetify[22703:1207317] Finished load of: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Bundle/Application/72EF35EA-0534-4041-8AD4-AAE250905071/Placetify.app/www/index.html
+2015-06-14 16:56:03.932 Placetify[22703:1207317] THREAD WARNING: ['Notification'] took '33.429932' ms. Plugin should use a background thread.
+2015-06-14 16:56:48.238 Placetify[22963:1210662] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Data/Application/334E84EF-73EA-4488-A745-568CB51E7847/Library/Cookies/Cookies.binarycookies
+2015-06-14 16:56:48.369 Placetify[22963:1210662] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-14 16:56:48.370 Placetify[22963:1210662] Multi-tasking -> Device: YES, App: YES
+2015-06-14 16:56:48.373 Placetify[22963:1210662] Unlimited access to network resources
+2015-06-14 16:56:48.375 Placetify[22963:1210662] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-14 16:56:48.523 Placetify[22963:1210662] Resetting plugins due to page load.
+2015-06-14 16:56:48.691 Placetify[22963:1210662] Finished load of: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Bundle/Application/D4773BE6-3374-4A54-B70D-B946AD186200/Placetify.app/www/index.html
+2015-06-14 16:56:48.730 Placetify[22963:1210662] THREAD WARNING: ['Geolocation'] took '12.132080' ms. Plugin should use a background thread.
+2015-06-14 16:56:48.772 Placetify[22963:1210662] THREAD WARNING: ['Notification'] took '34.981934' ms. Plugin should use a background thread.
+2015-06-14 16:58:19.323 Placetify[23368:1218143] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Data/Application/14140E6D-B05A-4C41-82A3-DB93D11E7C9F/Library/Cookies/Cookies.binarycookies
+2015-06-14 16:58:19.503 Placetify[23368:1218143] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-14 16:58:19.503 Placetify[23368:1218143] Multi-tasking -> Device: YES, App: YES
+2015-06-14 16:58:19.506 Placetify[23368:1218143] Unlimited access to network resources
+2015-06-14 16:58:19.510 Placetify[23368:1218143] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-14 16:58:19.801 Placetify[23368:1218143] Resetting plugins due to page load.
+2015-06-14 16:58:19.934 Placetify[23368:1218143] Finished load of: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Bundle/Application/DAABE228-5535-474C-81A4-6217E3943E1B/Placetify.app/www/index.html
+2015-06-14 16:58:19.990 Placetify[23368:1218143] THREAD WARNING: ['Notification'] took '22.008301' ms. Plugin should use a background thread.
+2015-06-14 16:59:06.043 Placetify[23629:1221470] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Data/Application/884B8947-FBCE-46B8-9A25-D7D78E3FB739/Library/Cookies/Cookies.binarycookies
+2015-06-14 16:59:06.174 Placetify[23629:1221470] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-14 16:59:06.175 Placetify[23629:1221470] Multi-tasking -> Device: YES, App: YES
+2015-06-14 16:59:06.178 Placetify[23629:1221470] Unlimited access to network resources
+2015-06-14 16:59:06.182 Placetify[23629:1221470] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-14 16:59:06.339 Placetify[23629:1221470] Resetting plugins due to page load.
+2015-06-14 16:59:06.497 Placetify[23629:1221470] Finished load of: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Bundle/Application/B35CB2D3-423A-41CD-9296-A251AD10D716/Placetify.app/www/index.html
+2015-06-14 16:59:06.570 Placetify[23629:1221470] THREAD WARNING: ['Notification'] took '33.895020' ms. Plugin should use a background thread.
+2015-06-14 17:02:02.824 Placetify[23908:1228884] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Data/Application/AAE08597-54D6-438A-8977-69FF9ECCE3E5/Library/Cookies/Cookies.binarycookies
+2015-06-14 17:02:02.952 Placetify[23908:1228884] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-14 17:02:02.952 Placetify[23908:1228884] Multi-tasking -> Device: YES, App: YES
+2015-06-14 17:02:02.954 Placetify[23908:1228884] Unlimited access to network resources
+2015-06-14 17:02:02.956 Placetify[23908:1228884] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-14 17:02:03.114 Placetify[23908:1228884] Resetting plugins due to page load.
+2015-06-14 17:02:03.273 Placetify[23908:1228884] Finished load of: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Bundle/Application/BD1B2965-1995-4A68-9E00-5213F87D2A40/Placetify.app/www/index.html
+2015-06-14 17:02:03.347 Placetify[23908:1228884] THREAD WARNING: ['Notification'] took '31.846924' ms. Plugin should use a background thread.
+2015-06-14 17:03:45.923 Placetify[23908:1228884] locationManager::didFailWithError (null)
+2015-06-14 17:04:53.948 Placetify[23908:1228884] THREAD WARNING: ['Notification'] took '34.709961' ms. Plugin should use a background thread.
+2015-06-14 17:06:05.426 Placetify[24206:1243524] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Data/Application/828DAF19-DFCE-456C-BDB9-34D3A113A1D6/Library/Cookies/Cookies.binarycookies
+2015-06-14 17:06:05.594 Placetify[24206:1243524] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-14 17:06:05.594 Placetify[24206:1243524] Multi-tasking -> Device: YES, App: YES
+2015-06-14 17:06:05.628 Placetify[24206:1243524] Unlimited access to network resources
+2015-06-14 17:06:05.634 Placetify[24206:1243524] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-14 17:06:06.039 Placetify[24206:1243524] Resetting plugins due to page load.
+2015-06-14 17:06:06.328 Placetify[24206:1243524] Finished load of: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Bundle/Application/411E2A05-7505-4A71-B6A5-4A6972403092/Placetify.app/www/index.html
+2015-06-14 17:06:31.536 Placetify[24206:1243524] THREAD WARNING: ['Notification'] took '59.467041' ms. Plugin should use a background thread.
+2015-06-14 17:07:25.257 Placetify[24206:1243524] locationManager::didFailWithError (null)
+2015-06-14 17:07:36.833 Placetify[24206:1243524] THREAD WARNING: ['Notification'] took '13.329102' ms. Plugin should use a background thread.
+2015-06-14 17:43:41.038 Placetify[24773:1309121] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Data/Application/3AA9B0C8-51AC-4730-BD0A-1036C12335D0/Library/Cookies/Cookies.binarycookies
+2015-06-14 17:43:41.127 Placetify[24773:1309121] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-14 17:43:41.127 Placetify[24773:1309121] Multi-tasking -> Device: YES, App: YES
+2015-06-14 17:43:41.129 Placetify[24773:1309121] Unlimited access to network resources
+2015-06-14 17:43:41.132 Placetify[24773:1309121] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-14 17:43:41.289 Placetify[24773:1309121] Resetting plugins due to page load.
+2015-06-14 17:43:41.454 Placetify[24773:1309121] Finished load of: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Bundle/Application/E6D660D5-6934-4F27-8505-24061D062445/Placetify.app/www/index.html
+2015-06-14 17:43:41.531 Placetify[24773:1309121] THREAD WARNING: ['Notification'] took '31.815918' ms. Plugin should use a background thread.
+2015-06-14 17:43:49.806 Placetify[24773:1309121] locationManager::didFailWithError (null)
+2015-06-14 17:57:52.147 Placetify[25322:1348956] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Data/Application/A41F0C5E-251D-45FF-B8FA-494DDEFE048C/Library/Cookies/Cookies.binarycookies
+2015-06-14 17:57:52.242 Placetify[25322:1348956] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-14 17:57:52.242 Placetify[25322:1348956] Multi-tasking -> Device: YES, App: YES
+2015-06-14 17:57:52.244 Placetify[25322:1348956] Unlimited access to network resources
+2015-06-14 17:57:52.247 Placetify[25322:1348956] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-14 17:57:52.463 Placetify[25322:1348956] Resetting plugins due to page load.
+2015-06-14 17:57:52.634 Placetify[25322:1348956] Finished load of: file:///Users/dave/Library/Developer/CoreSimulator/Devices/51ECF8F3-BF81-4ABA-A5B4-5840B219C892/data/Containers/Bundle/Application/BB46560B-54F7-4DB7-90E7-B6AAB2462DD4/Placetify.app/www/index.html
+2015-06-14 17:57:52.728 Placetify[25322:1348956] THREAD WARNING: ['Notification'] took '33.291016' ms. Plugin should use a background thread.
+2015-06-14 17:58:21.586 Placetify[25322:1348956] THREAD WARNING: ['Notification'] took '11.479980' ms. Plugin should use a background thread.
